@@ -1,0 +1,19 @@
+{
+  "shardCount": 3,
+  "prefix": [ "--" ],
+  "status": "online",
+  "game": {
+    "type": "Playing",
+    "name": [
+      "With Users!",
+	  "Version 6.0.1"
+    ],
+    "url": "",
+    "interval": 60
+  },
+  "music": {
+    "status": true,
+    "passes": 1
+  },
+  "logLevel": 6
+}
